@@ -1,5 +1,7 @@
 #include<stdio.h>
 int main(){
-    for(int i=0;i<5;i++)
-    printf("hello world\n");
-} 
+    int n;
+    for(n=0;n<5;n++){
+        printf("DSA \n");
+    }
+}
