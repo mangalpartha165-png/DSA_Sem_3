@@ -48,7 +48,7 @@ void display() {
 int main() {
     int choice, value;
     do {
-        printf("1. Enqueue\n2. Dequeue\n3. Display\n4. Exit\n");
+        printf("1. Enqueue 2. Dequeue3. Display4. Exit\n");
         printf("Enter your choice: ");
         scanf("%d", &choice);
         switch (choice) {
